@@ -30,7 +30,3 @@ ELEC####-project-name/
 ├── report.pdf          # Full coursework write-up
 └── figures/             # Key plots (I-V curves, TCAD cross-sections, spectra, etc.)
 ```
-
-## Contact
-
-Open to RF/SDR, semiconductor process/integration, and MEMS/sensor R&D roles in the UK. Reach out via [LinkedIn](https://linkedin.com/in/mdmuzammil-imam) or mozamilimam@gmail.com.# MSc-Projects
